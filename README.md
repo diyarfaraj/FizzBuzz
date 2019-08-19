@@ -1,5 +1,8 @@
 # FizzBuzz
-Sulution to FIZZBUZZ challenge 
+Sulution to FIZZBUZZ challenge
+
+
+
 let num= 0;
 
 while( num < 100) {
